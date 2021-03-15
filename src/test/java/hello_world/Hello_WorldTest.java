@@ -8,6 +8,7 @@ class Hello_WorldTest {
 
     @Test
     void init(){
+
     }
 
 }
