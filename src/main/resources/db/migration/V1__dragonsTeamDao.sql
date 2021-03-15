@@ -1,0 +1,1 @@
+CREATE table teammembers (name varchar (50), age int, gender varchar (10));
